@@ -5,7 +5,7 @@ long_description = Path("README.md").read_text(encoding="utf-8")
 
 setup(
     name="starker-scanner",
-    version="5.0.0",
+    version="5.0.1",
     author="STARKER Consulting",
     author_email="contact@starkerconsulting.com",
     description="Enterprise defensive security scanner. Audits SSL, DNS, headers, ports, subdomains and more.",
